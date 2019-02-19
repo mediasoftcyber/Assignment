@@ -14,11 +14,11 @@ import javax.mail.internet.MimeMessage;
 public class JavaMail {
 
 	public static void main(String [] args){  
-		String to = "msoftcyber@gmail.com";
+		String to = "xxxxxxxxx@gmail.com";
 		String subject = "Registration";
-		final String from ="gaganpreetam5@gmail.com";
+		final String from ="xxxxxxx@gmail.com";
 		final  String password ="9156405251";
-		String msg ="Hello Prabhakar Kumar,\r\n" + 
+		String msg ="Hello Xxxx Kumar,\r\n" + 
 				"\r\n" + 
 				"\r\n" + 
 				"\r\n" + 
@@ -31,12 +31,12 @@ public class JavaMail {
 				"\r\n" + 
 				"\r\n" + 
 				"Application : www.google.com \r\n" + 
-				"Username : Prabhakar \r\n" + 
+				"Username : Xxxx \r\n" + 
 				"Password : Kumar@123 \r\n" + 
 				"\r\n" + 
 				"\r\n" + 
 				"\r\n" + 
-				"For any questions please contact Administrator using +91-9156405251.\r\n" + 
+				"For any questions please contact Administrator using +91-xxxxxxxxxx.\r\n" + 
 				"\r\n" + 
 				"Thanks & Regards,\r\n" + 
 				"HIS Team.";
