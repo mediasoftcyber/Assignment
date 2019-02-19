@@ -17,7 +17,7 @@ public class JavaMail {
 		String to = "xxxxxxxxx@gmail.com";
 		String subject = "Registration";
 		final String from ="xxxxxxx@gmail.com";
-		final  String password ="9156405251";
+		final  String password ="xxxxxxxxxxxxxxx";
 		String msg ="Hello Xxxx Kumar,\r\n" + 
 				"\r\n" + 
 				"\r\n" + 
